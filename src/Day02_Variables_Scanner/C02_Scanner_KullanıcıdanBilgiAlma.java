@@ -12,7 +12,6 @@ public class C02_Scanner_KullanıcıdanBilgiAlma {
         // Kullanicidan bilgi almak icin
         // 3 adima ihtiyac vardir
 
-
         // 1- Bir scanner objesi olusturmak
 
         Scanner scanner = new Scanner(System.in);

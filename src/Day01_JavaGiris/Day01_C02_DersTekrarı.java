@@ -12,6 +12,10 @@ public class Day01_C02_DersTekrarı {
 
         System.out.println(sayı); // 65
 
+        sayı = sayı * 2;
+
+        System.out.println(sayı); // 130
+
         sayı = 30;
 
         sayı -=10;
@@ -34,17 +38,5 @@ public class Day01_C02_DersTekrarı {
 
         System.out.println(not1 + not2 + not3 * 30); // 1560
         System.out.println(ortNot); // 43
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
